@@ -43,3 +43,9 @@ https://www.e-zigurat.com/innovation-school/global-master-blockchain-technologie
 
 ### Hyperledger Fabric
 https://www.hyperledger.org/use/fabric
+
+### IPFS Sistema de Archivos Interplanetario 
+https://es.wikipedia.org/wiki/Sistema_de_archivos_interplanetario
+
+### NFT Token no fungible
+https://es.wikipedia.org/wiki/Token_no_fungible
