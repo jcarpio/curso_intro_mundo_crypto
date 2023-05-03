@@ -49,3 +49,6 @@ https://es.wikipedia.org/wiki/Sistema_de_archivos_interplanetario
 
 ### NFT Token no fungible
 https://es.wikipedia.org/wiki/Token_no_fungible
+
+### A Blockchain guide to the benefits, frameworks, initiatives, & more for the public sector
+https://www.comptia.org/content/research/harnessing-the-blockchain-revolution-comptia-s-practical-guide-for-the-public-sector
