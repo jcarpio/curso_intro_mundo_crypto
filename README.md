@@ -29,6 +29,8 @@ https://www.bbva.com/es/innovacion/tokenizar-la-realidad-como-podria-cambiar-blo
 ### ¿Cuál es la matemática detrás de la criptografía de curva elíptica?
 https://hackernoon.com/es/cual-es-la-matematica-detras-de-la-criptografia-de-curva-eliptica-f61b25253da3
 
+### MIT Blockchain
+https://professional.mit.edu/course-catalog/blockchain-disrupcion-tecnologica-spanish
 
-
-###
+### Máster de formación permanente en Blockchain y Web 3.0
+https://universidadeuropea.com/master-blockchain-madrid-semipresencial/
