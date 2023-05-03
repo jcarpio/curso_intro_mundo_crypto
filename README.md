@@ -1,1 +1,1 @@
-# Introdicción al mundo crypto!
+# 🚀Introdicción al mundo crypto!
