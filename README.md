@@ -2,6 +2,8 @@
 
 ## ¿Qué es la blockchain?
 
+## ¿Qué son las cryptomonedas?
+
 ## Referencias
 
 ### ¿Tecnología Blockchain? (IBM)
