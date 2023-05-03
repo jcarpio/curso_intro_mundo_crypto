@@ -16,6 +16,9 @@ https://www.youtube.com/@conquerblocks
 https://www.youtube.com/@dan_fuentes
 https://www.instagram.com/danfuentesoficial/?hl=es
 
+### Andreas Antonopoulus 
+https://www.youtube.com/@aantonop
+
 
 
 ## Referencias
