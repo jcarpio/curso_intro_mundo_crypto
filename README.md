@@ -61,3 +61,14 @@ https://www.comptia.org/content/research/harnessing-the-blockchain-revolution-co
 
 ### Token City
 https://www.token-city.com/es/ebook/guia-para-comenzar-a-invertir-en-tokens
+
+## Exchanges
+
+### Binance
+https://www.binance.com/es
+
+### Coinbase
+https://www.coinbase.com/
+
+### Bit2me
+https://bit2me.com/es
