@@ -32,5 +32,5 @@ https://hackernoon.com/es/cual-es-la-matematica-detras-de-la-criptografia-de-cur
 ### MIT Blockchain
 https://professional.mit.edu/course-catalog/blockchain-disrupcion-tecnologica-spanish
 
-### Máster de formación permanente en Blockchain y Web 3.0
+### Universidad Europea. Máster de formación permanente en Blockchain y Web 3.0
 https://universidadeuropea.com/master-blockchain-madrid-semipresencial/
