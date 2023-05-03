@@ -62,6 +62,9 @@ https://es.wikipedia.org/wiki/Token_no_fungible
 ### A Blockchain guide to the benefits, frameworks, initiatives, & more for the public sector
 https://www.comptia.org/content/research/harnessing-the-blockchain-revolution-comptia-s-practical-guide-for-the-public-sector
 
+### Regulación europea sobre Mercados de Criptoactivos (MiCA): ¿Qué es y por qué es importante?
+https://www.bbva.com/es/innovacion/regulacion-europea-sobre-mercados-de-criptoactivos-mica-que-es-y-por-que-es-importante/
+
 ### Token City
 https://www.token-city.com/es/ebook/guia-para-comenzar-a-invertir-en-tokens
 
