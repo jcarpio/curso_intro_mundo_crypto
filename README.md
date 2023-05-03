@@ -40,3 +40,6 @@ https://universidadeuropea.com/master-blockchain-madrid-semipresencial/
 
 ### E-Zigurat Global Master Blockchain Technologies
 https://www.e-zigurat.com/innovation-school/global-master-blockchain-technologies/
+
+### Hyperledger Fabric
+https://www.hyperledger.org/use/fabric
