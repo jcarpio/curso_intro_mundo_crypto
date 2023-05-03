@@ -23,6 +23,9 @@ https://www.youtube.com/@aantonop
 
 ## Referencias
 
+### Ledger Billetera Hardware
+https://www.ledger.com/es
+
 ### ¿Tecnología Blockchain? (IBM)
 https://www.ibm.com/es-es/topics/blockchain
 
