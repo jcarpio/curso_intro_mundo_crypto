@@ -66,6 +66,11 @@ https://www.comptia.org/content/research/harnessing-the-blockchain-revolution-co
 ### Token City
 https://www.token-city.com/es/ebook/guia-para-comenzar-a-invertir-en-tokens
 
+
+## Criptomonedas
+
+### Coingecko.com
+https://www.coingecko.com/es
 ## Exchanges
 
 ### Binance
