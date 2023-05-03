@@ -37,3 +37,6 @@ https://professional.mit.edu/course-catalog/blockchain-disrupcion-tecnologica-sp
 
 ### Universidad Europea. Máster de formación permanente en Blockchain y Web 3.0
 https://universidadeuropea.com/master-blockchain-madrid-semipresencial/
+
+### E-Zigurat Global Master Blockchain Technologies
+https://www.e-zigurat.com/innovation-school/global-master-blockchain-technologies/
