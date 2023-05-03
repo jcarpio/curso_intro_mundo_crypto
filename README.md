@@ -9,8 +9,6 @@
 ### Crypto Master Academy
 https://cryptomaster.academy/
 en instagram @cryptomaster_academy
-https://www.youtube.com/@conquerblocks
-
 
 ### Dan Fuentes
 https://www.youtube.com/@dan_fuentes
@@ -19,6 +17,8 @@ https://www.instagram.com/danfuentesoficial/?hl=es
 ### Andreas Antonopoulus 
 https://www.youtube.com/@aantonop
 
+### ConquerBlocks
+https://www.youtube.com/@conquerblocks
 
 # Referencias
 
