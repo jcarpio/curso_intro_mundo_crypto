@@ -70,6 +70,13 @@ https://www.token-city.com/es/ebook/guia-para-comenzar-a-invertir-en-tokens
 
 ### Coingecko.com
 https://www.coingecko.com/es
+
+### Arbitrium
+https://arbitrum.foundation/
+
+### zkSync
+https://zksync.io/
+
 ## Exchanges
 
 ### Binance
